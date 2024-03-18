@@ -1,0 +1,85 @@
+.container {
+    display: flex;
+    padding-right: 22rem;
+    justify-content: space-between;
+    padding-left: 18rem;
+    background-color: lightgreen;
+    
+}
+/* .logo{
+    padding-left: 5rem;
+} */
+
+nav {
+    display: flex;
+    padding-left: 20px;
+}
+
+a{ 
+    text-decoration: none;
+    list-style-type: none;
+    padding-left: 5rem;
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+nav a{
+    padding-top: 40px;
+    
+}
+.image{
+    justify-content: center;
+    padding-left: 15rem;
+    padding-bottom: 20px;
+    
+    
+}
+.row{
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 50px;
+}
+.colum img{
+    width: 100%;
+    padding-right: 5rem;
+ 
+}
+.colum  p{
+    color: black;
+    padding-left: 8rem;
+}
+h1{
+    justify-content: center;
+    padding-left: 8rem;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    background-color: lightgreen;
+    justify-content: center;
+    padding-left: 5rem;
+    
+}
+.icon {
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.icon a {
+    padding-left: 2rem;
+}
+P{
+    color: aliceblue;
+}
+i{
+    padding-top: 20px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
